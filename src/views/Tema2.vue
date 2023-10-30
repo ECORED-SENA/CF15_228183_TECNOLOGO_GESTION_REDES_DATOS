@@ -7,7 +7,7 @@
         span 2
       h1 Herramientas de monitoreo de red
 
-    p(data-aos="fade-down") De acuerdo con #[b Junco Romero y Rabelo Padua] (2018), existe un gran número de herramientas para resolver el problema del monitoreo de una red. Las hay tanto comerciales como basadas en #[i software] libre. La elección depende de varios factores, tanto humanos, económicos como de infraestructura:
+    p(data-aos="fade-down") De acuerdo con Junco Romero y Rabelo Padua (2018), existe un gran número de herramientas para resolver el problema del monitoreo de una red. Las hay tanto comerciales como basadas en #[i software] libre. La elección depende de varios factores, tanto humanos, económicos como de infraestructura:
 
     .row.justify-content-center.align-items-center.mb-4        
       .col-lg-4.my-3
@@ -17,7 +17,7 @@
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/12.svg', alt='')
             .col
               .p-4.text-white 
-                p(data-aos="fade-down").mb-0 El perfil de los administradores y sus conocimientos en determinados sistemas perativos.         
+                p(data-aos="fade-down").mb-0 El perfil de los administradores y sus conocimientos en determinados sistemas operativos.         
       .col-lg-4.my-3
         .bg6(data-aos="zoom-in")
           .row.justify-content-center           
@@ -25,7 +25,7 @@
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/13.svg', alt='')
             .col
               .p-4.text-white 
-                p(data-aos="fade-down").mb-0 El perfil de los administradores y sus conocimientos en determinados sistemas perativos.         
+                p(data-aos="fade-down").mb-0 Los recursos económicos disponibles.        
       .col-lg-4.my-3
         .bg6(data-aos="zoom-in")
           .row.justify-content-center           
@@ -33,7 +33,7 @@
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/14.svg', alt='')
             .col
               .p-4.text-white 
-                p(data-aos="fade-down").mb-0 El perfil de los administradores y sus conocimientos en determinados sistemas perativos.    
+                p(data-aos="fade-down").mb-0 El equipo de cómputo disponible.  
 
 
 
@@ -46,11 +46,11 @@
           .col-lg-auto.my-3  
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/16.svg', alt='')
           .col.my-3
-            p(data-aos="fade-down").mb-0 Claramente, la selección de la herramienta óptima para monitorear la red debe tener en cuenta los aspectos mencionados anteriormente, como también los alcances deseados, sin olvidar su importancia como herramienta valiosa para todos los procesos de seguridad, gestión, planeación y control; es claro afirmar que la robustez de la herramienta escogida será directamente proporcional al retorno de inversión obtenido por la empresa así como a la estabilidad ofrecida por los sistemas. Así las cosas, en el mercado existen múltiples opciones tanto pagas como de software libre para el desarrollo de esta labor, el reto consiste en definir la más adecuada para las condiciones de la empresa.
+            p(data-aos="fade-down").mb-0 Claramente, la selección de la herramienta óptima para monitorear la red debe tener en cuenta los aspectos mencionados anteriormente, como también los alcances deseados, sin olvidar su importancia como herramienta valiosa para todos los procesos de seguridad, gestión, planeación y control; es claro afirmar que la robustez de la herramienta escogida será directamente proporcional al retorno de inversión obtenido por la empresa así como a la estabilidad ofrecida por los sistemas. Así las cosas, en el mercado existen múltiples opciones tanto pagas como de #[i software] libre para el desarrollo de esta labor, el reto consiste en definir la más adecuada para las condiciones de la empresa.
         .bg8.brad.p-4.mb-5
-          p(data-aos="fade-down").mb-0 #[b Características básicas:] las herramientas de diagnóstico y monitoreo de red deben ofrecer requisitos básicos de monitoreo, incluyendo factores como el monitoreo de mensajes syslog, el monitoreo del ancho de banda, la disponibilidad o el uso; sin embargo, deben tenerse en cuenta además características como la comunicación de las alertas e informes y que estos sean configurables, el soporte a la mayor cantidad de protocolos comunes #[i (SNMP, WMI, CLI) y tecnologías (NetFlow, sFlow, jFlow y Packet sniffing)], la seguridad, la flexibilidad para adaptarse a herramientas o software específico, la usabilidad de manera que proporcione el panel de control con presentación de datos óptima y personalizable. 
+          p(data-aos="fade-down").mb-0 #[b Características básicas:] las herramientas de diagnóstico y monitoreo de red deben ofrecer requisitos básicos de monitoreo, incluyendo factores como el monitoreo de mensajes #[i syslog], el monitoreo del ancho de banda, la disponibilidad o el uso; sin embargo, deben tenerse en cuenta además características como la comunicación de las alertas e informes y que estos sean configurables, el soporte a la mayor cantidad de protocolos comunes #[i (SNMP, WMI, CLI) y tecnologías (NetFlow, sFlow, jFlow y Packet sniffing)], la seguridad, la flexibilidad para adaptarse a herramientas o #[i software] específico, la usabilidad de manera que proporcione el panel de control con presentación de datos óptima y personalizable. 
      
-        p(data-aos="fade-down").mb-5 Un software de monitoreo de red / solución de problemas de red con estas características, mejorará la tarea de monitoreo de red. Estas son características esenciales, sin embargo, también pueden buscarse atributos adicionales que optimicen el trabajo del personal de auditoría de la red, tales como:  
+        p(data-aos="fade-down").mb-5 Un #[i software] de monitoreo de red / solución de problemas de red con estas características, mejorará la tarea de monitoreo de red. Estas son características esenciales, sin embargo, también pueden buscarse atributos adicionales que optimicen el trabajo del personal de auditoría de la red, tales como:  
 
         SlyderF.px-3(columnas="col-lg-4")(data-aos="fade-left")
           .tarjeta.color-acento-botones.bg9.p-4
@@ -60,7 +60,7 @@
           .tarjeta.color-acento-botones.bg9.p-4
             img.img-t.mb-4(src='@/assets/curso/temas/18.svg' alt='')
             h5 Inventario de #[i hardware] y #[i software] 
-            p.mb-0 La capacidad de autogestión le permite ir descubriendo los nuevos dispositivos o elementos de la red, a la par que va guardando el estado y situación de cada uno en su inventario, registrando datos como el sistema operativo, IP, bios, memoria, CPU y #[i drivers], en el caso de #[i hardware] o programas instalados, parches y versiones, si se habla de #[i software]. 
+            p.mb-0 La capacidad de autogestión le permite ir descubriendo los nuevos dispositivos o elementos de la red, a la par que va guardando el estado y situación de cada uno en su inventario, registrando datos como el sistema operativo, IP, #[i bios], memoria, CPU y #[i drivers], en el caso de #[i hardware] o programas instalados, parches y versiones, si se habla de #[i software]. 
           .tarjeta.color-acento-botones.bg9.p-4
             img.img-t.mb-4(src='@/assets/curso/temas/19.svg' alt='')
             h5 Geolocalización y monitorización en la nube 
@@ -108,9 +108,9 @@
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/26.png', alt='')
           .col-lg-8
             .px-5.j
-              p(data-aos="fade-down") La gestión o gerencia de un servidor puede ser definida como el proceso mediante el cual se verifica y monitorea en busca de problemas la infraestructura de cualquier servidor sin importar su naturaleza. El monitoreo y control constante del rendimiento del servidor permite que las aplicaciones alojadas y ofrecidas en este tengan un mejor desempeño y por lo tanto, unas mejoras en las prestaciones de los servicios ofrecidos a los usuarios que las requieren.
+              p(data-aos="fade-down") La gestión o gerencia de un servidor puede ser definida como el proceso mediante el cual se verifica y monitorea en busca de problemas en la infraestructura de cualquier servidor sin importar su naturaleza. El monitoreo y control constante del rendimiento del servidor permite que las aplicaciones alojadas y ofrecidas en este tengan un mejor desempeño y por lo tanto, unas mejoras en las prestaciones de los servicios ofrecidos a los usuarios que las requieren.
 
-              p(data-aos="fade-down") En el mercado se identifican herramientas de monitoreo de red ampliamente reconocidas tanto de software libre como Nagios, Zabbix o Pandora con versión libre, o pagas como BMC, Opmanager o Solarwinds, las cuales por lo general utilizan el protocolo SNMP.     
+              p(data-aos="fade-down") En el mercado se identifican herramientas de monitoreo de red ampliamente reconocidas tanto de #[i software] libre como Nagios, Zabbix o Pandora con versión libre, o pagas como BMC, Opmanager o Solarwinds, las cuales por lo general utilizan el protocolo SNMP.     
 
     Separador 
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")

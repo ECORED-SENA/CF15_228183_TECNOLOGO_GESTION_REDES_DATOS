@@ -148,14 +148,14 @@ export default {
     {
       tema: '¿Qué es SNMP?',
       referencia:
-        'Briceño, C. R. (2004). Protocolo SNMP (protocolo sencillo de administración de redes). Télématique, 3(1), p. 90-102. ',
+        'Briceño, C. R. (2004). Protocolo SNMP (protocolo sencillo de administración de redes). <i>Télématique</i>, 3(1), p. 90-102. ',
       tipo: 'Artículo',
       link: 'https://www.redalyc.org/pdf/784/78430108.pdf',
     },
     {
       tema: 'Gestión de servidor virtual',
       referencia:
-        'Chahin-Noreña, J. A. (2015). Metodología ACRD para la gestión de seguridad en entornos virtuales (Master&lsquo;s thesis). Repositorio digital UNIR.',
+        'Chahin-Noreña, J. A. (2015). <i>Metodología ACRD para la gestión de seguridad en entornos virtuales (Master&lsquo;s thesis)</i>. Repositorio digital UNIR.',
       tipo: 'Otro',
       link: 'https://reunir.unir.net/handle/123456789/3510',
     },
@@ -288,7 +288,8 @@ export default {
         {
           nombre: 'Heidi Zuleyma Gil Castañeda',
           cargo: 'Experta temática',
-          centro: 'Centro de la Industria, la Empresa y los Servicios',
+          centro:
+            'Centro de la Industria, la Empresa y los Servicios - Regional Huila',
         },
         {
           nombre: 'Deivis Eduard Ramírez Martínez',
