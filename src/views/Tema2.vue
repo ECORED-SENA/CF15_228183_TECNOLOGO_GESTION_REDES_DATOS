@@ -87,8 +87,8 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
-        figcaption Video. 
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/V1xj_S3xBUI?si=iI0VPrlPFoKZKE4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
+        figcaption Video. Herramientas de Monitoreo 
     Separador 
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 2.1 ¿Qué es el monitoreo de red en tiempo real?             

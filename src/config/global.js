@@ -130,7 +130,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/228183_CF15_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -275,38 +275,10 @@ export default {
           centro: 'Centros de Servicios y Gestión Empresarial - Antioquia',
         },
         {
-          nombre: 'Luz Mila Pacheco Fuentes',
-          cargo: 'Diseñadora instruccional',
-          centro: 'Centro de Diseño y Metrología - Regional distrito Capital',
-        },
-        {
-          nombre: 'Julieth Paola Vital López',
-          cargo: 'Corrección de estilo',
-          centro:
-            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito capital',
-        },
-        {
           nombre: 'Heidi Zuleyma Gil Castañeda',
           cargo: 'Experta temática',
           centro:
             'Centro de la Industria, la Empresa y los Servicios - Regional Huila',
-        },
-        {
-          nombre: 'Deivis Eduard Ramírez Martínez',
-          cargo: 'Diseñador instruccional',
-          centro:
-            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
-        },
-        {
-          nombre: 'Silvia Milena Sequeda Cárdenas',
-          cargo: 'Evaluadora  instruccional',
-          centro: 'Centro de Gestión Industrial - Distrito Capital',
-        },
-        {
-          nombre: 'Julia Isabel Roberto',
-          cargo: 'Diseñadora y evaluadora instruccional',
-          centro:
-            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Ana Catalina Córdoba Sus',
