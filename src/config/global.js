@@ -156,7 +156,7 @@ export default {
       tema: 'Gestión de servidor virtual',
       referencia:
         'Chahin-Noreña, J. A. (2015). <i>Metodología ACRD para la gestión de seguridad en entornos virtuales (Master&lsquo;s thesis)</i>. Repositorio digital UNIR.',
-      tipo: 'Otro',
+      tipo: 'Tesis de maestría',
       link: 'https://reunir.unir.net/handle/123456789/3510',
     },
   ],
